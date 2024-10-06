@@ -3,13 +3,13 @@ Hello everyone, I'm Shivani a data scientist. This repository contains my projec
    Source: data.gov.in  
    Year: 2020 
    Number of Cities: 50
-**Features:**
+ **Features:**
   Million Plus Cities: Names of the cities
   Cause Category: 5 primary categories (Traffic Control, Junction, Road Features, Impacting Vehicle/Object, Weather Conditions)
   Cause Subcategory: Detailed cause of accidents
   Outcome of Incident: Injuries, deaths, and total accidents
   Count: Number of incidents in millions
-**Methodology:**
+ **Methodology:**
   1.Importing Libraries and Loading Data
   2.Exploratory Data Analysis (EDA):
     Analyzing accident trends across cities
