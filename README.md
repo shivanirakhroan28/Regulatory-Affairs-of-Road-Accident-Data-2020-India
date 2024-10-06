@@ -1,7 +1,7 @@
 Hello everyone, I'm Shivani a data scientist. This repository contains my project on analyzing road accidents across 50 major cities in India for the year 2020, using data exploration and visualization techniques to uncover key insights and trends.
 **Dataset:**
    Source: data.gov.in  
-   Year: 2020
+   Year: 2020 
    Number of Cities: 50
 **Features:**
   Million Plus Cities: Names of the cities
